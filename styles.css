@@ -1,0 +1,17 @@
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('./images/beauity.jpg');
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Prevent background image from repeating */
+}
+.form-control{
+    width:50%; 
+
+}
+.long{
+    font-weight: bold;
+    font-size: xx-large;
+    color:rgb(39, 161, 15);
